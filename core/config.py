@@ -26,6 +26,10 @@ GTE_TOKENS = {
     "Enzo": {"address": Web3.to_checksum_address("0x9cd3a7b840464d83bee643bc9064d246375b07a3"), "decimals": 18},
     "Nazdaq": {"address": Web3.to_checksum_address("0xd0ed4c2af51bb08c58a808b9b407508261a87f25"), "decimals": 18},
     "Toast": {"address": Web3.to_checksum_address("0xc49ae2a62e7c18b7ddcab67617a63bf5182b08de"), "decimals": 18},
+    "MegaMafia": {"address": Web3.to_checksum_address("0x8a411b19db90987564e6722f1b7cc1e3c98e4e62"), "decimals": 18},
+    "Silence": {"address": Web3.to_checksum_address("0xce854a5a1aace42e8ebb30cc22d90e50ead29400"), "decimals": 18},
+    "Bitcoin": {"address": Web3.to_checksum_address("0x98ded6bda76abe846c7a881d6e6cb564303bf0cf"), "decimals": 18},
+    "Meow": {"address": Web3.to_checksum_address("0x6ad49d913ee11e910f3f4be41bea32bea6312b29"), "decimals": 18},
     "ETH": {"address": None, "decimals": 18},
 }
 
